@@ -1,0 +1,17 @@
+.DepositContainer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border: outset 10px rgb(46, 133, 139) ;
+    border-radius: 5rem;
+    margin: 40px;
+    padding: 5%;
+    background-color:rgba(149, 229, 168, 0.763) ;
+}
+
+.DepositDIV {
+    display: flex;
+    row-gap: 1rem;
+    flex-direction: column;
+}
+

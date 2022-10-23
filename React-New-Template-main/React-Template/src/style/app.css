@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+ 
+}
+footer{
+  
+  margin-top: 5rem;
+}
+.TextContainer{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  gap: 9rem;
+
+}
+
+.TextDIV{
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  gap: 9rem;
+}
+
+.ListItem{
+  border: 10px inset black;
+  background-color: rgb(179, 171, 171);
+}

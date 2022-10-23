@@ -1,0 +1,19 @@
+.WithdrawContainer{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border: ridge 10px hotpink;
+    border-radius: 5rem;
+    margin: 40px;
+    padding: 5%;
+    background-color: hotpink;
+}
+
+.WithdrawDIV {
+    display: flex;
+    row-gap: 1rem;
+    flex-direction: column;
+    
+
+}
+
